@@ -73,6 +73,14 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>RELEASE</version>
 		</dependency>
+		
+		<!--added by yc on 0717 for sonar-->
+		<dependency>
+		    <groupId>org.sonarsource.scanner.maven</groupId>
+		    <artifactId>sonar-maven-plugin</artifactId>
+		    <version>3.6.0.1398</version>
+		</dependency>
+
 
 	</dependencies>
 
